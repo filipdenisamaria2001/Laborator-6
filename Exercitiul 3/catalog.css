@@ -1,0 +1,22 @@
+<head>
+<style>
+h1 {	font-size:36px;
+		font-family:"Segoe UI",Arial,sans-serif;
+		font-weight:400;
+		margin:10px;
+} 
+h2 {	font-size:30px;
+		font-family:"Segoe UI",Arial,sans-serif;
+		font-weight:400;
+		margin:10px;
+} 
+hr{	border:0;
+	border-top:1px solid #eee;
+	margin:20px;
+}
+.w3-image{max-width:100%;height:auto}
+img{vertical-align:middle}
+a{color:inherit}
+.w3-purple{color:#fff!important;background-color:#9c27b0!important}
+</style>
+</head>
